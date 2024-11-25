@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 04.11">
-      <change afterPath="$PROJECT_DIR$/Account/templates/account/edit.html" afterDir="false" />
+    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 06.11">
+      <change afterPath="$PROJECT_DIR$/images/migrations/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Account/static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/Account/static/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Account/templates/account/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Account/templates/account/dashboard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bookmarks/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,8 +106,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
-        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
@@ -128,7 +129,8 @@
       <workItem from="1729753826190" duration="336000" />
       <workItem from="1730112312028" duration="4647000" />
       <workItem from="1730716984261" duration="4764000" />
-      <workItem from="1730876891494" duration="1642000" />
+      <workItem from="1730876891494" duration="2141000" />
+      <workItem from="1731926253706" duration="4477000" />
     </task>
     <task id="LOCAL-00001" summary="Kod z 7.10">
       <option name="closed" value="true" />
@@ -186,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730723095426</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Kod z 06.11">
+      <option name="closed" value="true" />
+      <created>1730878994938</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730878994938</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +210,7 @@
     <MESSAGE value="Kod z 23.10" />
     <MESSAGE value="Kod z 28.10" />
     <MESSAGE value="Kod z 04.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kod z 04.11" />
+    <MESSAGE value="Kod z 06.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kod z 06.11" />
   </component>
 </project>
